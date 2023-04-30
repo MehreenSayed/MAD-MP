@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Kitty</string>
+    <string name="title_activity_home_screen">homeScreen</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Wishlist</string>
+    <string name="title_notifications">Profile</string>
+</resources>
